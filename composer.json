@@ -1,0 +1,16 @@
+{
+    "name": "gueguent/twig",
+    "description": "My First Twig Engine Template !",
+    "require": {
+        "twig/twig": "~1.0",
+        "cocur/slugify": "@stable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Gueguen",
+            "email": "gueguen.thomas92@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
